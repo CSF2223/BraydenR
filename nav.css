@@ -1,0 +1,23 @@
+/*
+Color Palette
+background color: #00FFF6
+primary: #00E7FF
+secondary: #009EFF
+tertiary: #0014FF
+white: #fff
+black: #000
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.navbar {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 0 2.5rem;
+}
+
+.logo {
+    font-size: 3rem;
+    font-family: 'Anton', sans-serif;
+}
