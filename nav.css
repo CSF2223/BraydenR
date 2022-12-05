@@ -44,7 +44,7 @@ black: #000
 }
 
 .navbar-links li:hover {
-    background-color: #fff;
+    background-color: #474E68;
 }
 
 .toggle-button {
@@ -61,7 +61,7 @@ black: #000
 .toggle-button .bar {
     height: 3px;
     width: 100%;
-    background-color: #404258;
+    background-color: #fff;
     border-radius: 10px;
 }
 
