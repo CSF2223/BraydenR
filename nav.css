@@ -8,6 +8,7 @@ white: #fff
 black: #000
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 
 .navbar {
     display: flex;
@@ -21,7 +22,7 @@ black: #000
     font-size: 2.2rem;
     margin: 0.75rem 2.5rem;
     color: #fff;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Nerko One', cursive;
 }
 
 .navbar-links ul {
