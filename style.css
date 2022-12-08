@@ -186,6 +186,8 @@ footer {
 }
 
 
+
+
 @media (min-width: 800px) {
     .hero {
         flex-direction: row;
